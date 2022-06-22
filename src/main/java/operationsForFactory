@@ -1,0 +1,9 @@
+DEFINE=operations.OperationDefine
+/=operations.OperationDivision
+-=operations.OperationMinus
+*=operations.OperationMultiply
++=operations.OperationPlus
+POP=operations.OperationPop
+PRINT=operations.OperationPrint
+PUSH=operations.OperationPush
+SQRT=operations.OperationSqrt
